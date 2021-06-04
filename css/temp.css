@@ -87,3 +87,7 @@
   font-weight: 400;
   color: #3f3e3e;
 }
+.footer-container {
+  display: flex;
+  justify-content: space-evenly;
+}
